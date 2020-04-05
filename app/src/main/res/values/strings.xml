@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Course Waiting List</string>
+    <string name="registration">Registration</string>
+    <string name="stu_list">Student List</string>
+</resources>

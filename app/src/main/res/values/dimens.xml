@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_heading">21dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="title_size">14sp</dimen>
+    <dimen name="text_size">14dp</dimen>
+</resources>
